@@ -1,4 +1,4 @@
 {
-    "versao":  "1.1.1",
-    "notas":  "Corrige erro ao baixar a atualizacao pela tela Home (parametro Uri vazio)."
+    "versao":  "1.1.2",
+    "notas":  "Aviso de atualizacao disponivel agora fica visivel em todas as telas (Relatorios, Conciliacao, Fechamento), nao so na Home."
 }
