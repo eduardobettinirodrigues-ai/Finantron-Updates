@@ -1,4 +1,4 @@
 {
-    "versao":  "1.2.1",
-    "notas":  "Aba Capa: tabela por forma de pagamento mostra so Mooca; Vila Moura (que so concilia Voucher) ganhou uma tabela lateral separada com a mesma ordem de formas."
+    "versao":  "1.3.0",
+    "notas":  "Reformulacao visual (topo sem barra solida, cantos maiores, chip de icone, abas em pill, ProcessingLoader), correcao de qualidade grafica (cantos serrilhados/tela borrada), tabela de Vila Moura separada na Capa, e aviso de atualizacao periodico + botao \u0027Verificar atualizacoes\u0027 na Home."
 }
