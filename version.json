@@ -1,4 +1,4 @@
 {
-    "versao":  "1.3.1",
-    "notas":  "Telas de modulo agora reajustam de verdade ao redimensionar a janela (arquivos/grades esticam, com rolagem horizontal em janelas estreitas). Corrige nome de aba quebrando linha e botoes com texto cortado."
+    "versao":  "1.3.2",
+    "notas":  "Home e Relatorios agora sao janelas redimensionaveis (antes so os modulos eram); os cards recentralizam e a lista ganha rolagem em vez de cortar."
 }
