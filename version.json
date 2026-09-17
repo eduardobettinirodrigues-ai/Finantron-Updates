@@ -1,4 +1,4 @@
 {
-    "versao":  "1.1.2",
-    "notas":  "Aviso de atualizacao disponivel agora fica visivel em todas as telas (Relatorios, Conciliacao, Fechamento), nao so na Home."
+    "versao":  "1.2.0",
+    "notas":  "Reformulacao visual: topo sem barra solida (icone + nome + regua verde), cantos maiores, chip de icone nos cards, abas em pill, e a nova animacao ProcessingLoader ao processar arquivos."
 }
