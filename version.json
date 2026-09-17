@@ -1,4 +1,4 @@
 {
-    "versao":  "1.3.2",
-    "notas":  "Home e Relatorios agora sao janelas redimensionaveis (antes so os modulos eram); os cards recentralizam e a lista ganha rolagem em vez de cortar."
+    "versao":  "1.3.3",
+    "notas":  "Corrige cards desalinhados e o link Verificar atualizacoes/versao sumidos na Home apos o fix de redimensionamento da v1.3.2."
 }
