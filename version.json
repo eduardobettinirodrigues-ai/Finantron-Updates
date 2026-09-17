@@ -1,4 +1,4 @@
 {
-    "versao":  "1.2.0",
-    "notas":  "Reformulacao visual: topo sem barra solida (icone + nome + regua verde), cantos maiores, chip de icone nos cards, abas em pill, e a nova animacao ProcessingLoader ao processar arquivos."
+    "versao":  "1.2.1",
+    "notas":  "Aba Capa: tabela por forma de pagamento mostra so Mooca; Vila Moura (que so concilia Voucher) ganhou uma tabela lateral separada com a mesma ordem de formas."
 }
