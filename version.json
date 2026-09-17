@@ -1,4 +1,4 @@
 {
-    "versao":  "1.3.8",
-    "notas":  "Botao Voltar agora fica abaixo do titulo da tela; janelas de Relatorios/Conciliacao/Fechamento mantem o tamanho ao navegar entre telas"
+    "versao":  "1.3.9",
+    "notas":  "Corrige erro ao clicar em Analisar arquivos/Gerar (evento invalido no loader de carregamento)"
 }
