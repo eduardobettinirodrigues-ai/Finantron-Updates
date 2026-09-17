@@ -1,4 +1,4 @@
 {
-    "versao":  "1.3.4",
-    "notas":  "Corrige cards sobrepondo o topo na tela Relatorios e subtitulo cortado/escondido atras do titulo (Home e Relatorios)."
+    "versao":  "1.3.5",
+    "notas":  "Corrige botoes Adicionar/Remover/Selecionar sumindo em janela maximizada/bem larga nas telas de Conciliacao e Fechamento."
 }
