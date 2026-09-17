@@ -1,4 +1,4 @@
 {
-    "versao":  "1.3.6",
-    "notas":  "Mais espaco entre textos e botoes em todas as abas (Arquivos, Categorias/Mapeamento) - layout menos apertado"
+    "versao":  "1.3.7",
+    "notas":  "Corrige descricao cortada nos cards de modulo (Home e Relatorios)"
 }
