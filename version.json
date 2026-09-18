@@ -1,4 +1,4 @@
 {
-    "versao":  "1.4.2",
-    "notas":  "Campos de senha do banco agora sao fixos (Senha C6 / Senha Sicredi), nao mudam mais de banco dependendo da ordem dos arquivos adicionados - evita senha ir pro campo/banco errado"
+    "versao":  "1.4.3",
+    "notas":  "Arquivos de C6 e Sicredi agora ficam em campos separados (nao precisa mais preencher a coluna Banco); apenas o C6 pede senha"
 }
