@@ -1,4 +1,4 @@
 {
-    "versao":  "1.4.1",
-    "notas":  "Senhas de banco nao ficam mais censuradas no campo, e o app avisa antes de analisar se faltar a senha de algum banco (evitava travar sem explicacao)"
+    "versao":  "1.4.2",
+    "notas":  "Campos de senha do banco agora sao fixos (Senha C6 / Senha Sicredi), nao mudam mais de banco dependendo da ordem dos arquivos adicionados - evita senha ir pro campo/banco errado"
 }
