@@ -1,4 +1,4 @@
 {
-    "versao":  "1.4.0",
-    "notas":  "App agora e uma janela unica - navegar entre telas nao fecha/reabre nada, so troca o conteudo; tamanho da janela nunca reseta"
+    "versao":  "1.4.1",
+    "notas":  "Senhas de banco nao ficam mais censuradas no campo, e o app avisa antes de analisar se faltar a senha de algum banco (evitava travar sem explicacao)"
 }
