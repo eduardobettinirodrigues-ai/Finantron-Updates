@@ -1,4 +1,4 @@
 {
-    "versao":  "1.4.4",
-    "notas":  "Relatorio Excel (Capa): tabela lateral de Vila Moura agora tem rotulo das formas e fica alinhada; corrige coluna Diferenca que aparecia como ### e cabecalhos cortados no resumo do dia"
+    "versao":  "1.4.5",
+    "notas":  "Corrige layout torto nas telas (Fechamento e Conciliacao) com zoom do Windows em 125%/150%: radios sobrepostos, texto cortado, rotulos colados nas caixas, botao Remover selecionado cortado"
 }
