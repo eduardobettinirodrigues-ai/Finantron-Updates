@@ -1,4 +1,4 @@
 {
-    "versao":  "1.5.0",
-    "notas":  "Novo nome (Concilia) e novo logo (Livro C) em toda a aplicacao, atalhos e instalador."
+    "versao":  "2.0.0",
+    "notas":  "Concilia 2.0: app novo, mais rápido e que não trava enquanto lê as planilhas. Mesmos resultados, com correções: mais pagamentos divididos reconhecidos, leitura completa de planilhas com linhas vazias no topo e conciliação com uma única venda. Suas configurações são mantidas."
 }
