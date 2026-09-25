@@ -1,4 +1,4 @@
 {
-    "versao":  "2.0.0",
-    "notas":  "Concilia 2.0: app novo, mais rápido e que não trava enquanto lê as planilhas. Mesmos resultados, com correções: mais pagamentos divididos reconhecidos, leitura completa de planilhas com linhas vazias no topo e conciliação com uma única venda. Suas configurações são mantidas."
+    "versao":  "2.1.0",
+    "notas":  "Adiciona importação de despesas de caixa, coluna Despesas, cálculo de Dinheiro líquido e aba DESPESAS no relatório Excel."
 }
