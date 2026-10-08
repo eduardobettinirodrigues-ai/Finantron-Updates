@@ -1,4 +1,4 @@
 {
-    "versao":  "2.1.0",
-    "notas":  "Adiciona importação de despesas de caixa, coluna Despesas, cálculo de Dinheiro líquido e aba DESPESAS no relatório Excel."
+    "versao":  "2.2.0",
+    "notas":  "Capa do relatório de conciliação: nova Conferência do dinheiro em cada dia. Preencha \u0027Dinheiro em mãos\u0027 (campo amarelo, começa em zero) com o dinheiro contado já descontadas as despesas; a planilha soma as despesas, compara com as vendas em dinheiro e mostra a Diferença e se houve Falta ou Sobra. Os totais da Capa agora são fórmulas e recalculam sozinhos, inclusive o Total Geral do período."
 }
