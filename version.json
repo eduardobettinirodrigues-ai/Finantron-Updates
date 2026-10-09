@@ -1,4 +1,4 @@
 {
-    "versao":  "2.2.0",
-    "notas":  "Capa do relatório de conciliação: nova Conferência do dinheiro em cada dia. Preencha \u0027Dinheiro em mãos\u0027 (campo amarelo, começa em zero) com o dinheiro contado já descontadas as despesas; a planilha soma as despesas, compara com as vendas em dinheiro e mostra a Diferença e se houve Falta ou Sobra. Os totais da Capa agora são fórmulas e recalculam sozinhos, inclusive o Total Geral do período."
+    "versao":  "2.2.1",
+    "notas":  "Correções: o app não apaga mais a senha do C6 nem o mapeamento de terminais ao gerar uma conciliação sem esses arquivos; transações repetidas em arquivos com períodos sobrepostos agora contam uma vez só (a tela avisa quantas foram ignoradas); o botão Voltar fica bloqueado enquanto um arquivo é processado; cancelar o \u0027Salvar como\u0027 não altera mais nada; a atualização mostra o progresso do download sem travar a janela; a instalação de atualizações ficou mais segura."
 }
