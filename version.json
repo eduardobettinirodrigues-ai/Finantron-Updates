@@ -1,4 +1,4 @@
 {
-    "versao":  "2.2.2",
-    "notas":  "Correção: um relatório de despesas do caixa vazio (dia sem despesas) não dá mais erro; conta como zero despesas. A animação de carregamento também não fica mais parada atrás das mensagens de erro."
+    "versao":  "2.3.0",
+    "notas":  "Correções de bugs e melhorias de estabilidade."
 }
